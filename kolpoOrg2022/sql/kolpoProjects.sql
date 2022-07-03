@@ -1,0 +1,3 @@
+( fid, initial, color, finished, permitedUsers, importance, name) VALUES 
+, 
+('0SkF6i5SKdXPAj6FnYzt', 'PRnD', '#c1ad1b', false, 'HZUEU4axEmQQwIt8Rz2QiBavqoj2,myxsJVESyfPZTIPpbNRuoKJ7qHF2,xOiMxbgjVqf1CvvOCAAxoxTecB53,UHAosXDZeyeBvr0YCkKnXiJd93B3,CBcNAsLIGFgVG2ImhSJsYvuQoS03,I1urPDn37GR6XGv8DLhY6VeMgOx2,xHCVOvXHZhQjJKVQCw72GuSvUnK2,diX77OG08MOcwWNjlfm4hobz5663,JvA0caFI2pegS1Zp6mPbnVarBbL2,Dg6hESlEwMaMxmY4mJ1DBigTT5w1,KfAzH9AqWHOH1v7hqllAs5RVzOI2', '4', "Play and RnD");

@@ -1,0 +1,8 @@
+ {
+    "2wMcVB1GsTMRgebWe77qET3zezw2": {
+      "todoDetails": true,       "initial": "Hm",       "name": "Hamim",       "runningSessionId": null,       "color": "#90e8cf",       "active": false,       "isBusy": false,       "milestoneView": true,       "email": "sadid.hamim@gmail.com"
+    },     "3ZcuQ42g0AWYP6Y0otzjgh8efzg1": {
+      "lastWorkEndTimestamp": 1647446220700,       "email": "sheadashraf@gmail.com",       "isBusy": false,       "active": true,       "IdleAlertReceivedAt": 1647436856375,       "milestoneView": true,       "runningSessionId": null,       "lastAutoEndDayX": 1647367200000,       "todoDetails": true,       "color": "#dadba9",       "name": "Shead Ashraf",       "initial": "SA"
+    }
+  }
+

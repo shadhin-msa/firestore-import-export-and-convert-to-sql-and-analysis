@@ -1,0 +1,43 @@
+{
+  "organizations": {
+    "97HUkNuNZYRGWkIDQe7S": {
+      "orgDetails": {
+        "ownerUserId": "6U95Ch2gKMgDKNufk78SHVBggHz1",
+        "timestamp": 1589108971587,
+        "name": "user 2 Workspace 4",
+        "isSingleUser": true
+      }
+    },
+    "9Zu5ekDul7LAcamZBoa1": {
+      "orgDetails": {
+        "isSingleUser": false,
+        "name": "Sample Workspace",
+        "timestamp": 1648988251537,
+        "ownerUserId": "GLyyVVXMnRbtHGhyIh2IRQo7srp1"
+      }
+    },
+    "TZGygGXxHuWsDLkchLcZ": {
+      "orgDetails": {
+        "ownerUserId": "ozJPnikXiLT2fiEhGT3N6lLMk8b2",
+        "timestamp": 1585737331434,
+        "name": "Test Org"
+      }
+    },
+    "ThR84Ps2BVnCXVcyBGFm": {
+      "orgDetails": {
+        "timestamp": 1589300702438,
+        "isSingleUser": false,
+        "ownerUserId": "ozJPnikXiLT2fiEhGT3N6lLMk8b2",
+        "name": "Daily Deadline test"
+      }
+    },
+    "ju6ht0LLBwK1XAvN52fF": {
+      "orgDetails": {
+        "isSingleUser": true,
+        "ownerUserId": "GLyyVVXMnRbtHGhyIh2IRQo7srp1",
+        "name": "another U Workspace",
+        "timestamp": 1648983733704
+      }
+    }
+  }
+}

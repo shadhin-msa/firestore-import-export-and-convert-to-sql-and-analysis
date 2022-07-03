@@ -1,0 +1,137 @@
+{
+  "organizations/lvRnPwmJDGRMbXv3G6YX/appData": {
+    "lists": {
+      "taskStatus": { "0": "Not Done", "1": "Done", "2": "Have issue", "3": "Canceled" },
+      "userStatus": {
+        "notWorking": "On a Break",
+        "work": "Currently Working on",
+        "offline": "Out of Office"
+      },
+      "importanceList": { "0": "Low", "1": "Normal", "2": "High", "3": "Higher +" }
+    },
+    "teamData": {
+      "userWorkHour": 25,
+      "teamNote": "<p><strong>1. Fix the time</strong></p><p>2. Link gg or rz calendar to fb</p><p><strong>3. Research on individual activity booking &nbsp;</strong></p><p><strong>4. Rt will test appointment in fb</strong></p><p>5. Add all services &nbsp;</p><p><strong>6. Rz will give combo files</strong></p><p>7. Give announcement of opening and appointment</p><p>8. Fill up the menu</p><p><i>9. Change Dollars to taka</i></p><p>&nbsp;</p>",
+      "dailyPlanningDeadlineWeekWise": {
+        "diX77OG08MOcwWNjlfm4hobz5663": {
+          "thu": 54000000,
+          "tue": 54000000,
+          "sun": 54000000,
+          "sat": 48600000,
+          "mon": 54000000,
+          "wed": 54000000,
+          "fri": 48600000
+        },
+        "ftGWmj4f1IbOAJOFANZCx1hXj0d2": {
+          "sat": 77400000,
+          "mon": 34200000,
+          "tue": 34200000,
+          "wed": 34200000,
+          "sun": 34200000,
+          "fri": 77400000,
+          "thu": 34200000
+        },
+        "xHCVOvXHZhQjJKVQCw72GuSvUnK2": {
+          "wed": 48600000,
+          "sat": 48600000,
+          "mon": 48600000,
+          "sun": 48600000,
+          "fri": 48600000,
+          "thu": 48600000,
+          "tue": 48600000
+        },
+        "UHAosXDZeyeBvr0YCkKnXiJd93B3": {
+          "sat": 52200000,
+          "wed": 52200000,
+          "sun": 52200000,
+          "mon": 52200000,
+          "fri": 52200000,
+          "tue": 52200000,
+          "thu": 52200000
+        },
+        "myxsJVESyfPZTIPpbNRuoKJ7qHF2": {
+          "sat": 84600000,
+          "tue": 52200000,
+          "fri": 84600000,
+          "wed": 52200000,
+          "sun": 52200000,
+          "mon": 52200000,
+          "thu": 52200000
+        },
+        "JvA0caFI2pegS1Zp6mPbnVarBbL2": {
+          "fri": 54000000,
+          "wed": 54000000,
+          "tue": 54000000,
+          "thu": 54000000,
+          "sat": 54000000,
+          "mon": 54000000,
+          "sun": 84600000
+        },
+        "zSKW9rb4mIZLrVQK1dKu8L82y7O2": {
+          "tue": 54000000,
+          "sun": 54000000,
+          "wed": 54000000,
+          "fri": 54000000,
+          "sat": 54000000,
+          "mon": 54000000,
+          "thu": 54000000
+        },
+        "3ZcuQ42g0AWYP6Y0otzjgh8efzg1": {
+          "wed": 36000000,
+          "mon": 36000000,
+          "fri": 45000000,
+          "sun": 32400000,
+          "tue": 32400000,
+          "sat": 45060000,
+          "thu": 32400000
+        },
+        "CBcNAsLIGFgVG2ImhSJsYvuQoS03": {
+          "tue": 50400000,
+          "mon": 50400000,
+          "fri": 50400000,
+          "wed": 50400000,
+          "thu": 50400000,
+          "sat": 50400000,
+          "sun": 50400000
+        },
+        "Dg6hESlEwMaMxmY4mJ1DBigTT5w1": {
+          "fri": 55800000,
+          "sat": 55800000,
+          "tue": 54900000,
+          "sun": 54900000,
+          "wed": 54900000,
+          "thu": 84600000,
+          "mon": 54900000
+        },
+        "default": {
+          "wed": 48600000,
+          "mon": 48600000,
+          "sat": 48600000,
+          "sun": 48600000,
+          "thu": 48600000,
+          "tue": 48600000,
+          "fri": 48600000
+        },
+        "KfAzH9AqWHOH1v7hqllAs5RVzOI2": {
+          "mon": 57600000,
+          "fri": 45000000,
+          "wed": 57600000,
+          "sat": 45000000,
+          "tue": 57600000,
+          "thu": 57600000,
+          "sun": 84600000
+        },
+        "HZUEU4axEmQQwIt8Rz2QiBavqoj2": {
+          "sun": 34200000,
+          "wed": 34200000,
+          "tue": 34200000,
+          "fri": 34200000,
+          "sat": 34200000,
+          "thu": 34200000,
+          "mon": 34200000
+        }
+      },
+      "userDailyWorkHour": 5
+    }
+  }
+}

@@ -22,7 +22,7 @@ if (geoArray) {
 // You should replace databaseURL with your own
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-  databaseURL: "https://ionic-firestore-dn.firebaseio.com"
+  databaseURL: "firebase-adminsdk-4pfh3@timyst-kolpo.iam.gserviceaccount.com"
 });
 
 const db = admin.firestore();

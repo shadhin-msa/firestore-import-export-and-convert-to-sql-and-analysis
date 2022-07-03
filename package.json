@@ -13,8 +13,9 @@
   ],
   "author": "Dale Nguyen",
   "license": "ISC",
-  "dependencies": {    
+  "dependencies": {
     "firebase-admin": "^5.13.1",
+    "firestore-export-import": "^1.1.0",
     "js-yaml": "^3.12.1"
   }
 }

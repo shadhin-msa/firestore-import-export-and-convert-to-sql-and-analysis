@@ -1,0 +1,11 @@
+<div class="error"><h1>Error</h1><p><strong>SQL query:</strong>  <a href="#" class="copyQueryBtn" data-text="SELECT `project`, `Ashish`, `Gigi zaman`, `Hamim`, `Hasan`, `Hasib`, `Maksud`, `Masud Haque`, `Md Riaz`, `old Sujon`, `Prince`, `Rakibul Foysal`, `Rashid Zaman`, `Ratul`, `Saiful`, `Sakib`, `Shadhin`, `Shead Ashraf`, `Shompa Karmoker`, `Sujon`, `Trina` FROM `kolpo2022`.`project_hour_by_user_column`">Copy</a>
+<a href="./url.php?url=https%3A%2F%2Fdev.mysql.com%2Fdoc%2Frefman%2F5.7%2Fen%2Fselect.html" target="mysql_doc"><img src="themes/dot.gif" title="Documentation" alt="Documentation" class="icon ic_b_help"></a><a href="tbl_sql.php?sql_query=SELECT+%60project%60%2C+%60Ashish%60%2C+%60Gigi+zaman%60%2C+%60Hamim%60%2C+%60Hasan%60%2C+%60Hasib%60%2C+%60Maksud%60%2C+%60Masud+Haque%60%2C+%60Md+Riaz%60%2C+%60old+Sujon%60%2C+%60Prince%60%2C+%60Rakibul+Foysal%60%2C+%60Rashid+Zaman%60%2C+%60Ratul%60%2C+%60Saiful%60%2C+%60Sakib%60%2C+%60Shadhin%60%2C+%60Shead+Ashraf%60%2C+%60Shompa+Karmoker%60%2C+%60Sujon%60%2C+%60Trina%60+FROM+%60kolpo2022%60.%60project_hour_by_user_column%60&amp;show_query=1&amp;db=kolpo2022&amp;table=project_hour_by_user_column"><span class="nowrap"><img src="themes/dot.gif" title="Edit" alt="Edit" class="icon ic_b_edit">&nbsp;Edit</span></a>    </p>
+<p>
+<code class="sql"><pre>
+SELECT `project`, `Ashish`, `Gigi zaman`, `Hamim`, `Hasan`, `Hasib`, `Maksud`, `Masud Haque`, `Md Riaz`, `old Sujon`, `Prince`, `Rakibul Foysal`, `Rashid Zaman`, `Ratul`, `Saiful`, `Sakib`, `Shadhin`, `Shead Ashraf`, `Shompa Karmoker`, `Sujon`, `Trina` FROM `kolpo2022`.`project_hour_by_user_column`
+</pre></code>
+</p>
+<p>
+    <strong>MySQL said: </strong><a href="./url.php?url=https%3A%2F%2Fdev.mysql.com%2Fdoc%2Frefman%2F5.7%2Fen%2Fserver-error-reference.html" target="mysql_doc"><img src="themes/dot.gif" title="Documentation" alt="Documentation" class="icon ic_b_help"></a>
+</p>
+<code>#1356 - View 'kolpo2022.project_hour_by_user_column' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them</code><br></div>
